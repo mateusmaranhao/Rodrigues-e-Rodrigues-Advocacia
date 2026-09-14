@@ -96,11 +96,20 @@ export default function ServicosPage() {
             <p className="text-sm leading-relaxed text-[#CCCCCC] font-light mb-6 max-w-3xl">
               Estruturação e revisão técnica de instrumentos particulares e públicos, análise de riscos em transações e negócios imobiliários, dissoluções patrimoniais e defesa em demandas indenizatórias e de responsabilidade civil.
             </p>
-            <ul className="text-xs space-y-2 text-[#BBBBBB] font-light list-disc list-inside">
+            <ul className="text-xs space-y-2 text-[#BBBBBB] font-light list-disc list-inside mb-8">
               <li>Elaboração, análise e negociação de contratos cíveis e imobiliários;</li>
               <li>Ações para cumprimento de obrigações e recuperação de créditos;</li>
               <li>Consultoria em contingências patrimoniais e de responsabilidade civil.</li>
             </ul>
+            <div className="pt-2">
+              <Link
+                href="/servicos/direito-civil-imobiliario-e-obrigacoes/"
+                className="inline-flex items-center gap-2 text-xs uppercase tracking-[0.16em] text-[#D4AF37] hover:text-[#FFFFFF] transition-colors"
+              >
+                <span>Ver página dedicada da Área Cível e Imobiliária</span>
+                <span aria-hidden="true">→</span>
+              </Link>
+            </div>
           </article>
 
           {/* Serviço 3: Consultoria Jurídica Preventiva */}
@@ -114,11 +123,20 @@ export default function ServicosPage() {
             <p className="text-sm leading-relaxed text-[#CCCCCC] font-light mb-6 max-w-3xl">
               Análise antecipada de cenários antes da consolidação de compromissos econômicos ou contratuais, reduzindo significativamente custos decorrentes de litígios posteriores e oferecendo previsibilidade ao cliente.
             </p>
-            <ul className="text-xs space-y-2 text-[#BBBBBB] font-light list-disc list-inside">
+            <ul className="text-xs space-y-2 text-[#BBBBBB] font-light list-disc list-inside mb-8">
               <li>Pareceres jurídicos fundamentados para suporte à decisão;</li>
               <li>Mapeamento prévio de vulnerabilidades operacionais;</li>
               <li>Acompanhamento jurídico em negociações extrajudiciais sensíveis.</li>
             </ul>
+            <div className="pt-2">
+              <Link
+                href="/servicos/consultoria-juridica-preventiva/"
+                className="inline-flex items-center gap-2 text-xs uppercase tracking-[0.16em] text-[#D4AF37] hover:text-[#FFFFFF] transition-colors"
+              >
+                <span>Ver página dedicada da Consultoria Preventiva</span>
+                <span aria-hidden="true">→</span>
+              </Link>
+            </div>
           </article>
         </div>
       </section>

@@ -53,6 +53,14 @@ export default function Navbar() {
       label: "Assessoria Jurídica e Empresarial",
       href: "/servicos/assessoria-juridica-e-empresarial/",
     },
+    {
+      label: "Direito Civil e Imobiliário",
+      href: "/servicos/direito-civil-imobiliario-e-obrigacoes/",
+    },
+    {
+      label: "Consultoria Preventiva",
+      href: "/servicos/consultoria-juridica-preventiva/",
+    },
   ];
 
   const isServicesActive =

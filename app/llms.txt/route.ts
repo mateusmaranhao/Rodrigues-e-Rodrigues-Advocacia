@@ -22,6 +22,8 @@ export async function GET() {
 - O Escritório: ${SITE_CONFIG.siteUrl}/sobre/
 - Serviços: ${SITE_CONFIG.siteUrl}/servicos/
 - Assessoria Empresarial: ${SITE_CONFIG.siteUrl}/servicos/assessoria-juridica-e-empresarial/
+- Direito Civil e Imobiliário: ${SITE_CONFIG.siteUrl}/servicos/direito-civil-imobiliario-e-obrigacoes/
+- Consultoria Preventiva: ${SITE_CONFIG.siteUrl}/servicos/consultoria-juridica-preventiva/
 - Contato: ${SITE_CONFIG.siteUrl}/contato/
 - Política de Privacidade: ${SITE_CONFIG.siteUrl}/politica-de-privacidade/
 - Termos de Uso: ${SITE_CONFIG.siteUrl}/termos-de-uso/
