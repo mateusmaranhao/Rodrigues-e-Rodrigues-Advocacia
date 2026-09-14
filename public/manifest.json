@@ -1,0 +1,16 @@
+{
+  "name": "Rodrigues & Rodrigues Advocacia",
+  "short_name": "R&R Advocacia",
+  "description": "Assessoria Jurídica e Empresarial em Indaiatuba - SP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64 128x128 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

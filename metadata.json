@@ -1,0 +1,6 @@
+{
+  "name": "Rodrigues & Rodrigues Advocacia",
+  "description": "Site institucional da Rodrigues & Rodrigues Advocacia em Indaiatuba/SP. Assessoria jurídica e empresarial com orientação estratégica, clareza e segurança jurídica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

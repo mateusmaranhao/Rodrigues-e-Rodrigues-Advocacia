@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" fill="#000000" rx="4" />
+  <rect x="3" y="3" width="58" height="58" fill="none" stroke="#D4AF37" stroke-width="1.5" rx="2" />
+  <text x="32" y="40" font-family="'Times New Roman', Times, 'Playfair Display', serif" font-size="26" font-weight="normal" fill="#D4AF37" text-anchor="middle" letter-spacing="1">
+    R<tspan font-size="18" fill="#FFFFFF" dx="-1" dy="-3">&amp;</tspan><tspan font-size="26" fill="#D4AF37" dx="-1" dy="3">R</tspan>
+  </text>
+  <line x1="16" y1="46" x2="48" y2="46" stroke="#D4AF37" stroke-width="0.75" />
+</svg>
